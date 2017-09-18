@@ -1,0 +1,53 @@
+#one {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	font-style: normal;
+	font-weight: normal;
+	color: #D41F00;
+	text-decoration: none;
+	background-color: #CCCCCC;
+	display: block;
+	border-top-width: 4%;
+	border-right-width: 4%;
+	border-bottom-width: 4%;
+	border-left-width: 4%;
+	border-top-color: #2A00AA;
+	border-right-color: #2A00AA;
+	border-bottom-color: #2A00AA;
+	border-left-color: #2A00AA;
+}
+#two
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	font-style: normal;
+	font-weight: normal;
+	color: #D41F00;
+	text-decoration: none;
+	background-color: #FFFFFF;
+	display: block;
+	border-top-width: 4%;
+	border-right-width: 4%;
+	border-bottom-width: 4%;
+	border-left-width: 4%;
+	border-top-color: #000000;
+	border-right-color: #000000;
+	border-bottom-color: #000000;
+	border-left-color: #000000;
+}
+#three
+{
+	font-family: "Courier New", Courier, monospace;
+	font-size: 18px;
+	font-style: normal;
+	font-weight: bold;
+	color: #2A0000;
+	text-decoration: none;
+	background-color: #AAAAAA;
+	text-align: justify;
+	display: block;
+	border-top-color: #000000;
+	border-right-color: #000000;
+	border-bottom-color: #000000;
+	border-left-color: #000000;
+}
